@@ -532,6 +532,12 @@ background: #89231C;
 
 }
 
+/* css map homesection06  */
+.map-iframe {
+    height: 460px;
+    width: 100%;
+    border: none;
+}
 
 #homesection06 .btn {
     transform: scale(0.9);
