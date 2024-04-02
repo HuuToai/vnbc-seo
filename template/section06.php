@@ -8,8 +8,9 @@
 
             <figure>
                 <iframe class="map-iframe"
-                    src="https://www.google.com/maps/embed/v1/place?q=+〒1O4-OO61+東京都中央区銀座7丁目5-4毛利凶レ5階&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
-                    loading="lazy"></iframe>
+                src="https://www.google.com/maps/embed/v1/place?q=〒106-0032+東京都港区六本木4-9-2-717&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                loading="lazy"></iframe>
+            
                 <figcaption hidden>Map showing the main headquarters location</figcaption>
             </figure>
         </div>

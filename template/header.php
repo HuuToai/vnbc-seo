@@ -4,10 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Thêm thẻ meta mô tả -->
 <meta name="description"
-    content="Hiệp hội xúc tiến Business Việt Nhật là tổ chức hỗ trợ doanh nghiệp, tạo cơ hội kinh doanh và giao lưu giữa Việt Nam và Nhật Bản. Tìm kiếm về các hoạt động kinh doanh, hợp tác và đầu tư tại hai quốc gia.">
+    content="ベトナム日本ビジネス促進協会は、ベトナムと日本のビジネス支援、ビジネス機会の創出、交流を行う団体です。 両国のビジネス、協力、投資活動について検索します。">
 <meta name="robots" content="index, follow">
 
-<title>Hiệp hội xúc tiến Business Việt Nhật VNBC</title>
+<title>VNBC ベトナム日本ビジネス促進協会</title>
 <!-- Bootstrap CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -26,10 +26,9 @@
       "@context": "http://schema.org",
       "@type": "Organization",
       "name": "株式会社VN BC",
-      <!-- sửa lại url khi deploy -->
-      "url": "http://yourwebsite.com",
-      "logo": "http://yourwebsite.com/assets/img/logo.png",
-      "description": "Hiệp hội xúc tiến Business Việt Nhật là tổ chức hỗ trợ doanh nghiệp, tạo cơ hội kinh doanh và giao lưu giữa Việt Nam và Nhật Bản. Tìm kiếm về các hoạt động kinh doanh, hợp tác và đầu tư tại hai quốc gia.",
+      "url": "http://vnbc.jp",
+      "logo": "http://vnbc.jp/assets/img/logo.png",
+      "description": "ベトナム日本ビジネス促進協会は、ベトナムと日本のビジネス支援、ビジネス機会の創出、交流を行う団体です。 両国のビジネス、協力、投資活動について検索します。",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "〒106-0032 東京都港区六本木4-9-2-717",
@@ -47,8 +46,10 @@
     }
     </script>
 </head>
+
 <body>
-<header>
+
+    <header>
         <nav class="navbar navbar-expand-md navbar-light bg-light">
             <div class="container">
                 <a href="/" class="navbar-brand">
